@@ -52,7 +52,7 @@ I am continuously learning and growing in the fields of AI and software developm
 
 Let's connect and collaborate on exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/learn_ai1)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YourUsername)
 
 ---
