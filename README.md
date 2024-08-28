@@ -42,8 +42,7 @@ I am proficient in Python and have extensive experience in developing advanced T
 ### 🛠️ Current Projects
 
 - Advanced Telegram Bots: Developing multi-functional bots with advanced AI capabilities.
-- AI Research: Exploring new algorithms and techniques in NLP for better text processing.
-- Open Source Contributions: Actively contributing to open source projects related to AI and bots.
+- Open Source Contributions: Actively contributing to open source projects related to bots.
 
 ---
 
