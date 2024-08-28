@@ -36,7 +36,6 @@ I am proficient in Python and have extensive experience in developing advanced T
 ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?logo=ai&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 ---
 
