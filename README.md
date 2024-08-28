@@ -20,12 +20,12 @@ I am proficient in Python and have extensive experience in developing advanced T
 
 ### 🚀 Skills and Expertise
 
-- Programming Languages: Python, JavaScript, HTML/CSS
-- AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn
-- NLP Tools: SpaCy, NLTK, Transformers
-- Bot Development: Advanced Telegram Bot Development, BotFather, Telethon
-- Web Development: Flask, Django
-- Database: MySQL, PostgreSQL, MongoDB
+- Programming Languages: Python
+- AI/ML Frameworks: PyTorch, Scikit-learn
+- Data Analysis/Visualization: pandas, numpy, matplotlib, seaborn
+- NLP Tools: SpaCy, NLTK
+- Bot Development: Advanced Telegram Bot Development, BotFather, Telebot, API telegram
+- Database: MySQL, sqlite
 - Version Control: Git, GitHub
 
 ---
