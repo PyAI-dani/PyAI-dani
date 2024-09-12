@@ -27,6 +27,8 @@ I am proficient in Python and have extensive experience in developing advanced T
 - Bot Development: Advanced Telegram Bot Development, BotFather, Telebot, API telegram
 - Database: MySQL, sqlite
 - Version Control: Git, GitHub
+- mathematics: Linear algebra, statistic and probability
+- language: English, Farsi
 
 ---
 
