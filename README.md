@@ -21,7 +21,7 @@ I am proficient in Python and have extensive experience in developing advanced T
 ### 🚀 Skills and Expertise
 
 - Programming Languages: Python
-- AI/ML Frameworks: PyTorch, Scikit-learn
+- AI/ML Frameworks: PyTorch, Scikit-learn، tensorflow 
 - Data Analysis/Visualization: pandas, numpy, matplotlib, seaborn
 - NLP Tools: SpaCy, NLTK
 - Bot Development: Advanced Telegram Bot Development, BotFather, Telebot, API telegram
@@ -45,6 +45,7 @@ I am proficient in Python and have extensive experience in developing advanced T
 
 - Advanced Telegram Bots: Developing multi-functional bots with advanced AI capabilities.
 - Open Source Contributions: Actively contributing to open source projects related to bots.
+- Chatbot AI
 
 ---
 
